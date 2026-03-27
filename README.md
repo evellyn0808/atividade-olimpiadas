@@ -1,4 +1,3 @@
-README – Footer Responsivo com HTML e CSS
 
 Este projeto consiste na criação de um rodapé (footer) moderno utilizando HTML5 e CSS3, inspirado em layouts profissionais de sites de turismo e blogs.
 
